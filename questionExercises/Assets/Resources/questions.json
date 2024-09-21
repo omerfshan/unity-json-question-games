@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Dünyanın en yüksek dağı hangisidir?",
+      "choices": [
+        "Everest",
+        "K2",
+        "Kangchenjunga",
+        "Lhotse"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "En uzun nehir hangisidir?",
+      "choices": [
+        "Nil",
+        "Amazon",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Hangi gezegen Güneş Sistemi'nde en büyük kütleye sahiptir?",
+      "choices": [
+        "Dünya",
+        "Mars",
+        "Jüpiter",
+        "Satürn"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hangi ülke 2020'de en fazla nüfusa sahipti?",
+      "choices": [
+        "Çin",
+        "Hindistan",
+        "ABD",
+        "Brezilya"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Hangi elementin kimyasal sembolü 'O' harfidir?",
+      "choices": [
+        "Oksijen",
+        "Azot",
+        "Hidrojen",
+        "Karbon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Dünyanın en büyük okyanusu hangisidir?",
+      "choices": [
+        "Atlas Okyanusu",
+        "Hint Okyanusu",
+        "Büyük Okyanus (Pasifik)",
+        "Güney Okyanusu"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hangisi insan vücudundaki en büyük organdır?",
+      "choices": [
+        "Kalp",
+        "Beyin",
+        "Cilt",
+        "Karaciğer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hangisi 1. Dünya Savaşı'nda Müttefik Devletlerden biri değildir?",
+      "choices": [
+        "Fransa",
+        "İngiltere",
+        "Almanya",
+        "İtalya"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hangi ülkenin başkenti Tokyo'dur?",
+      "choices": [
+        "Çin",
+        "Güney Kore",
+        "Japonya",
+        "Tayvan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Dünya’nın kaç doğal uydusu vardır?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}
